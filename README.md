@@ -18,4 +18,6 @@ ummm I don't know :DDDDDDDDD
         ├── data.csv
         ├── design.png
 ```
-something something idk
+Tutorials:
+https://www.instructables.com/Become-Anyone-20-Full-Face-LED-Mask/
+https://www.youtube.com/watch?v=Shy7WcQO15A
