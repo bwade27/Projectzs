@@ -1,7 +1,10 @@
-# Dumb lil mask thing
+# LED Mask based on sean hodgin's blackrabbit
 ummm I don't know :DDDDDDDDD
+
+
+
 ```
-/project_name
+/LED Mask
   ├── README.md
   ├── code/
   │     ├── run.py
