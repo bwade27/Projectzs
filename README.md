@@ -1,6 +1,6 @@
 # Dumb lil mask thing
 ummm I don't know :DDDDDDDDD
-'''
+```
 /project_name
   ├── README.md
   ├── code/
@@ -14,4 +14,4 @@ ummm I don't know :DDDDDDDDD
   └── other/
         ├── data.csv
         ├── design.png
-'''
+```
