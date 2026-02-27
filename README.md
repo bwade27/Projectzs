@@ -4,7 +4,7 @@ ummm I don't know :DDDDDDDDD
 
 
 ```
-/LED Mask
+/LED goggles
   ├── README.md
   ├── code/
   │     ├── run.py
@@ -34,9 +34,10 @@ A 3d Printer
 
 Materials
 Circuit boards - 
-More than SK6805-1515 4000 LED
+LEDs, whether strips or singular leds
 Pixelblaze / Raspberry Pi
 Pololu 5V Step down Regulator
 2/3s Battery
 A helmet strap i.e. VR headset, welding helmet
 18GA wires
+A black film
