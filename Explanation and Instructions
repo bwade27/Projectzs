@@ -10,10 +10,21 @@ The reflow oven to make sure the connection still works.
 -------------------
 
 More explainations for items
+PixelBlaze lessens the amount of coding needing, so you'd have to do very minimal amounts of it, unless you are aiming for something
+that isn't preset. 
 
 ---------------------------
 
 *Instructions*
-
+1. Buy the materials
+2. 3d print whatever mask you want, and make sure it actually fits your face.
 --------------
 
+```
+/LED goggles
+  ├── library/
+  │     ├── Pixelblaze : variables
+  |     |    ├── On/Off
+  |     |    ├── Brightness
+  |     |    ├── Color
+```
