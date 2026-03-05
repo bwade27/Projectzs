@@ -24,7 +24,7 @@ https://www.instructables.com/Become-Anyone-20-Full-Face-LED-Mask/
 https://www.youtube.com/watch?v=Shy7WcQO15A
 
 https://electromage.com/docs/hardware-getting-started
-
+https://electromage.com/pixelblaze
 ```
 You will need:
 -Tools-
