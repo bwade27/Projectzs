@@ -1,12 +1,11 @@
 Explaination for items
-We will use a Pixelblaze for the coding, which most of the coding is already done, it's just that we need a connection and to map out all the LEDs for it.
+We will use a Pixelblaze for the coding, which most of the coding is already done, it's just that we need a connection and 
+to map out all the LEDs for it.
 The battery will supply the power obviously
 The 5V battery regulator will limit the batteries output to not overpower the items
-The circuit board is to connect all the wires and LEDs together onto a panel.
 The wires.
-Tweezers to plant each LED
-The soldering iron to keep the leds in place
-The reflow oven to make sure the connection still works.
+A 3D Printer
+Glue: Better to use hot glue gun.
 -------------------
 
 More explainations for items
@@ -24,19 +23,10 @@ connect to your internet, put in the needed information for it to work.
 them so I recommend getting the right set of wires for connection unless you want to make it harder for yourself.
 5. Print out your mask, I'm going to use the Tank Driver helmet from Star Wars.
 6. Since you most likely can't use one strip of LEDs to cover some of the mask, you'll need to map out where you want to put it on 
-your mask.
+your mask, then glue it on.
 7. After mapping out where you want it on the mask, you need to map it out on the Pixelblaze, and this part actually requires coding
 instead of just pressing buttons.
+8. Test to make sure your LEDs are working, your mapping may be wrong, or the wires aren't fully connected.
 --------------
 
-```
-/LED goggles
-  ├── library/
-  │     ├── Pixelblaze : variables
-  |     |    ├── On/Off
-  |     |    ├── Brightness
-  |     |    ├── Color
-  |     |    ├── Power usage
 
-
-```
