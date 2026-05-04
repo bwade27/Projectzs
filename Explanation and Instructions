@@ -6,6 +6,7 @@ The 5V battery regulator will limit the batteries output to not overpower the it
 The wires for connections.
 A 3D Printer for your mask.
 Glue: Better to use hot glue gun so you can place the LEDs on the mask.
+Mask strap: Depending on what you use you may need this.
 -------------------
 
 More explainations for items
@@ -27,6 +28,9 @@ your mask, then glue it on.
 7. After mapping out where you want it on the mask, you need to map it out on the Pixelblaze, and this part actually requires coding
 instead of just pressing buttons.
 8. Test to make sure your LEDs are working, your mapping may be wrong, or the wires aren't fully connected.
+OPTIONAL. If your using a mask and not a helmet you should use a mask strap, glue it onto your mask and make sure it's in an area
+that doesn't ruin it.
+9. The final step. So that the LEDs aren't completely showing their wiring, cover them in a black film so they're more hidden.
 --------------
 
 
