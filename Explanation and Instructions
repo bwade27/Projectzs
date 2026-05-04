@@ -16,8 +16,17 @@ that isn't preset.
 ---------------------------
 
 *Instructions*
-1. Buy the materials
-2. 3d print whatever mask you want, and make sure it actually fits your face.
+1. Once you buy your materials take them out the packaging.
+2. Get your Pixelblaze out and connect it to your computer or any reliable power source.
+3. When connected to a power source it will show up on your wifi list, connect to it and it will bring you to a website so it can
+connect to your internet, put in the needed information for it to work.
+4. Once connected to the wifi, connect your lights correctly to see if the LEDs work, it's very dependent on which way you connect 
+them so I recommend getting the right set of wires for connection unless you want to make it harder for yourself.
+5. Print out your mask, I'm going to use the Tank Driver helmet from Star Wars.
+6. Since you most likely can't use one strip of LEDs to cover some of the mask, you'll need to map out where you want to put it on 
+your mask.
+7. After mapping out where you want it on the mask, you need to map it out on the Pixelblaze, and this part actually requires coding
+instead of just pressing buttons.
 --------------
 
 ```
