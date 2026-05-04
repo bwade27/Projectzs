@@ -28,16 +28,12 @@ https://electromage.com/pixelblaze
 ```
 You will need:
 -Tools-
-A soldering Iron
-Reflow Oven
-Tweezers
-Maybe a pick and place machine
+A glue gun
 A 3d Printer
 
 Materials
-Circuit boards - 
 LEDs, whether strips or singular leds
-Pixelblaze / Raspberry Pi
+Pixelblaze
 Pololu 5V Step down Regulator
 2/3s Battery
 A helmet strap i.e. VR headset, welding helmet
