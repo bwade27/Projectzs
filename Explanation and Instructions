@@ -22,11 +22,12 @@ that isn't preset.
 connect to your internet, put in the needed information for it to work.
 4. Once connected to the wifi, connect your lights correctly to see if the LEDs work, it's very dependent on which way you connect 
 them so I recommend getting the right set of wires for connection unless you want to make it harder for yourself.
-5. Print out your mask, I'm going to use the Tank Driver helmet from Star Wars.
+5. Print out your mask.
 6. Since you most likely can't use one strip of LEDs to cover some of the mask, you'll need to map out where you want to put it on 
 your mask, then glue it on.
 7. After mapping out where you want it on the mask, you need to map it out on the Pixelblaze, and this part actually requires coding
-instead of just pressing buttons.
+instead of just pressing buttons, there is a github on how to do.
+https://github.com/simap/pixelblaze/blob/master/README.mapper.md
 8. Test to make sure your LEDs are working, your mapping may be wrong, or the wires aren't fully connected.
 OPTIONAL. If your using a mask and not a helmet you should use a mask strap, glue it onto your mask and make sure it's in an area
 that doesn't ruin it.
